@@ -16,7 +16,7 @@ I'm a software developer passionate about building impactful projects and learni
 
 #### 🌱 Current Focus:
 - Building projects with Flask and Python.
-- Exploring CustomTkinter for Python GUI applications.
+- Exploring Django.
 - Automating stuff.
 
 #### 📚 Projects:
