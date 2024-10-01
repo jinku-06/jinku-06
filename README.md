@@ -5,8 +5,6 @@
 </h1>
 
 
-I'm a software developer passionate about building impactful projects and learning new technologies. I have experience in web development using Python, Flask, and front-end technologies like HTML/CSS. I'm also diving deep into data science and currently preparing for the GATE exam in Computer Science and Engineering (CSE).
-
 #### 💻 Tech Stack:
 - **Languages**: Python, SQL
 - **Frameworks**: Flask, CustomTkinter, Streamlit
@@ -24,8 +22,6 @@ I'm a software developer passionate about building impactful projects and learni
 - **Typing Speed Test**: A CustomTkinter application that measures typing speed, accuracy, and more.
 - **Watermark Application**: A GUI application to add customizable watermarks to images.
 
-#### 📫 Let's Connect!
-Feel free to connect with me on LinkedIn or check out my projects here on GitHub.
 
 <hr>          
 
