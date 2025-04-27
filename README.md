@@ -7,20 +7,7 @@
 
 #### 💻 Tech Stack:
 - **Languages**: Python, SQL
-- **Frameworks**: Flask, CustomTkinter, Streamlit
-- **Tools**: Git, Obsidian, Notion
-- **Databases**: SQLAlchemy, SQLite
-- **Interests**: Data Science, Web Development, GUI Applications
-
-#### 🌱 Current Focus:
-- Building projects with Flask and Python.
-- Exploring Django.
-- Automating stuff.
-
-#### 📚 Projects:
-- **Job Portal Data Aggregator**: A Flask app that scrapes job data from websites, stores it in a database, and allows for search and filtering.
-- **Typing Speed Test**: A CustomTkinter application that measures typing speed, accuracy, and more.
-- **Watermark Application**: A GUI application to add customizable watermarks to images.
+- **Interests**: Data Science, Web Development
 
 
 <hr>          
